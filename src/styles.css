@@ -1,0 +1,12 @@
+body {
+  background: rgb(241, 241, 115);
+}
+.croissant-image {
+  height: auto;
+}
+.photo-heading {
+  margin: 20px 0 20px 0;
+}
+.all-links a {
+  color: rgb(49, 196, 49);
+}
