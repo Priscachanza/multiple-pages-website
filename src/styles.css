@@ -1,9 +1,11 @@
 body {
-  background: rgb(241, 241, 115);
-  align-content: center;
+  background: #f8e8a6;
 }
-.croissant-image {
-  height: auto;
+.croissant-photo {
+  max-width: 100%;
+  border-radius: 10px;
+  margin: 30px auto;
+  display: block;
 }
 .photo-heading {
   margin: 20px 0 20px 0;
